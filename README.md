@@ -8,12 +8,14 @@ O projeto implementa um bot de grid trading bastante sofisticado para o mercado 
 - <strong>Notificações:</strong> Envia notificações via Telegram para informar sobre eventos importantes, como compras, vendas e lucros.
 - <strong>Persistência de dados:</strong> Armazena dados importantes, como histórico de ordens, configurações e balanços, em um arquivo JSON para manter o estado do bot entre as execuções.
 - <strong>Flexibilidade:</strong> Permite configurar diversos parâmetros, como espaçamento do grid, limites de stop-loss e take-profit, e outras opções de personalização.
+  </br></br>
 
 ## Base do Projeto
 
 Este projeto foi inspirado no código-fonte de **[MetaDapp](https://github.com/meta-dapp)**. Acrescentei a integração com indicadores técnicos (como RSI), consumindo dados da biblioteca <strong>Technical Indicators</strong>, e adicionei outras funcionalidades para tornar o bot mais robusto e personalizado.
 
 Dessa forma, reconheço a importância do MetaDapp como base para este projeto e me posiciono como autor das modificações e extensões feitas.
+</br></br>
 
 ## Como Executar o Código
 
